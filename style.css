@@ -1,0 +1,30 @@
+body{background: url(fondos-de-colores-3.jpg);
+background-position: left;
+background-size: cover ;
+background-repeat: no-repeat;
+background-attachment: fixed;}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.cja{
+        height: 100vh;
+        font-size: 5rem;
+    border: rgb(255, 0, 0) 2px;
+    padding: 5rem 2rem;
+    border-radius: .5rem;
+    display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column; 
+ }
+ h1 {color: gold;}
+
+ 
+    
